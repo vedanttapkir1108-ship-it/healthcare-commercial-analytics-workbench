@@ -1,0 +1,12 @@
+metric,segment,period,value,unit,source
+Indian Pharma Market size,Total IPM,Q2 2025,61000,INR_crore,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+Indian Pharma Market growth,Total IPM,Q2 2025 vs Q2 2024,9,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+Indian Pharma Market sequential growth,Total IPM,Q2 2025 vs Q1 2025,7,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+Indian companies market share,Indian companies,Q2 2025,83,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+MNC market share,MNCs,Q2 2025,17,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+Chronic growth,Chronic,Q2 2025 vs Q2 2024,10,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+Acute growth,Acute,Q2 2025 vs Q2 2024,7,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+Cardiac growth,Cardiac,Q2 2025 vs Q2 2024,11,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+CNS growth,Neuro/CNS,Q2 2025 vs Q2 2024,10,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+West zone growth,West,Q2 2025 vs Q2 2024,11,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025
+GLP-1 market growth,GLP-1 agonists,Q2 2025 vs Q2 2024,145,percent,IQVIA Indian Pharmaceutical Business Quarterly Insights Q2 2025

@@ -1,0 +1,13 @@
+metric,therapy_area,period,value,unit,source
+Global medicine use growth,All therapy areas,2020-2024,14,percent,IQVIA Global Use of Medicines 2025
+Global medicine use forecast,All therapy areas,2025-2029,4,percent,IQVIA Global Use of Medicines 2025
+Global medicine spending growth,All therapy areas,2020-2024,38,percent,IQVIA Global Use of Medicines 2025
+Global medicine spending forecast,All therapy areas,2025-2029,35,percent,IQVIA Global Use of Medicines 2025
+Oncology spending,Oncology,2024,252,USD_bn,IQVIA Global Oncology Trends 2025
+Oncology spending forecast,Oncology,2029,441,USD_bn,IQVIA Global Oncology Trends 2025
+Oncology NAS launches,Oncology,2024,25,count,IQVIA Global Oncology Trends 2025
+Oncology NAS launches average,Oncology,2020-2024,26,count_per_year,IQVIA Global Oncology Trends 2025
+Obesity contribution to annual growth,Obesity,2025,31,USD_bn,IQVIA Early Bird 2025
+Top four therapy areas share of global value,Oncology;Immunology;Diabetes;Obesity,2025,43,percent,IQVIA Early Bird 2025
+Global market value,All therapy areas,2025,1700,USD_bn,IQVIA Early Bird 2025
+Novel active substances launched,All therapy areas,2025,73,count,IQVIA Early Bird 2025

@@ -1,0 +1,10 @@
+[
+  {
+    "train_rows":3600,
+    "test_rows":1200,
+    "train_r2":0.166,
+    "test_r2":0.185,
+    "test_mae":50.01,
+    "note":"Time split: months 1-9 train, months 10-12 test. Synthetic data; association not causation."
+  }
+]

@@ -1,0 +1,4 @@
+priority_band,weight_sales_percentile,weight_response_percentile
+Monitor,0.5,0.5
+Develop,0.5,0.5
+Prioritize,0.5,0.5
